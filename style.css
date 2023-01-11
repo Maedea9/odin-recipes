@@ -1,32 +1,3 @@
-body {
-  font-family: 'Roboto'
-}
-*{
-  margin: 0;
-  padding: 0;
-  list-style: none;
-  text-decoration: none;
-}
-
-.sidenav {
-  position: fixed;
-  left: 0;
-  width: 250px;
-  height: 100%;
-  background-color: #042331;
-}
-
-.sidenav header{
-  font-size: 22px;
-  color: white;
-  text-align: center;
-  line-height: 70px;
-  background: #063146;
-  user-select: none;
-}
-
-.videostyle {
-  position: relative;
-  padding-bottom: 56.25%
-
+p {
+  color: green;
 }
