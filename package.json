@@ -1,0 +1,23 @@
+{
+  "name": "odin-recipes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maedea9/odin-recipes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maedea9/odin-recipes/issues"
+  },
+  "homepage": "https://github.com/Maedea9/odin-recipes#readme",
+  "devDependencies": {
+    "hint": "^7.1.3"
+  }
+}
